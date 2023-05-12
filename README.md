@@ -1,7 +1,7 @@
 1. 
 ### Screenshots (in Markdown README.md) for CI Workflow (Part 1)
 Preconfigured Gradle starter workflow
-![images1](./images/part1/1.png)
+![images1](./images/part1/Screenshot%20(65).png)
 
 Modify gradle.yaml
 ![images2](./images/part1/2.png)
