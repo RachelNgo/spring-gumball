@@ -73,16 +73,22 @@ Trigger and Deployment to GKE
 Trigger a CD Deployment by creating a new GitHub Release
 ![images2](./images/part2/Screenshot%20(91).png)
 
+Create a Release
 ![images2](./images/part2/Screenshot%20(92).png)
 
+All workflows 2.1 is running
 ![images2](./images/part2/Screenshot%20(93).png)
 
+Jobs
 ![images2](./images/part2/Screenshot%20(94).png)
 
+Building
 ![images2](./images/part2/Screenshot%20(95).png)
 
+Workflow building complete job
 ![images2](./images/part2/Screenshot%20(96).png)
 
+Workflows build success
 ![images2](./images/part2/Screenshot%20(97).png)
 
 GKE Workload
